@@ -1,1 +1,2 @@
 # Student-record-management-system
+Creates a Student class with fields for ID, name, and marks, and stores student objects in an ArrayList. The program presents a menu-driven interface where users can choose options to add new students, view all students, update student details by ID, or delete a student by ID. The program uses a Scanner to take user input and runs in a loop until the user chooses to exit.
